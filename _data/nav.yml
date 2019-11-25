@@ -1,10 +1,10 @@
 topnav:
 - url: /
-  title: Home
+  title: Inicio
 - url: /about
-  title: About
+  title: Acerca
 - url: /facilitate
-  title: Facilitate
+  title: Facilitar
 
 org:
     url: https://hog.warts/

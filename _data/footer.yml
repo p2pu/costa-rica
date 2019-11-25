@@ -8,13 +8,13 @@ socials:
   - text: Facebook
     url: https://www.facebook.com/P2PUniversity
     icon_class: fa fa-facebook
-license: Unless otherwise noted, all the materials on this site are licensed under CC BY-SA 4.0.
-about_orgs: P2PU is a U.S. 501(c)3 registered in California.
-tos: 
-    title: Terms of Service
+license: A menos que se indique lo contrario, todos los materiales en este sitio están bajo la licencia CC BY-SA 4.0.  
+about_orgs: P2PU  es una organización sin ánimo de lucro (U.S. 501 (c)3  registrada en California).
+tos:
+    title: Términos de Servicio
     url: https://www.p2pu.org/en/terms/
 privacy: 
-    title: Privacy Policy
+    title: Política de Privacidad
     url: https://www.p2pu.org/en/privacy/
 
 
